@@ -1,4 +1,4 @@
-# Seeker
+# Seer
 SpartaHack Project for Telomere Length Research
 
 __Authors:__
@@ -17,7 +17,10 @@ and provide a solid proof that it actually make a difference for their lives.
 __Method:__
 
 We compare patient surveys for their habits versus their telomere lenght of their leukocytes. 
-We built multiple ML models, and decided to use a fully connected neural network in order to make the predictions.
+We have three approaches to the problem. 
+1- Mathematical Approach:
+2- Statistical Approach:
+3- Machine Learning: We built multiple ML models, and decided to use a fully connected neural network in order to make the predictions.
 
 
 __DISCLAIMER:__
