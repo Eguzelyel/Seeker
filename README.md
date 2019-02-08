@@ -30,7 +30,7 @@ This study may include sensitive information. Use it in your own will.
 
 __Main Files:__
 
-Predictions.ipynb to run the code and visualization.
+Use *Predictions.ipynb* to run the code and visualization.
 
 
 __Data usage:__
